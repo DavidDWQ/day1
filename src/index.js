@@ -13,3 +13,8 @@ if ((testAddNumbers > 5) && (testAddNumbers < 10)){
 }
 
 
+
+for (ii = 0; ii <= 100; ii = ii + 1) {
+    var current = ii
+    console.log(current)
+}
